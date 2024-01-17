@@ -8,7 +8,7 @@ Required:
 - 3 Wires  
 
 # 2 Player FPGA battleship game, made for Xilinx, using Verilog.  
-- The game is ran on 2 simulataneous FPGAs using the UART communication protocol  
+- The game is ran on 2 simultaneous FPGAs using the UART communication protocol  
 - Players would begin the game by playing rock paper scissors to determine the attack order  
 - Players would then be given the option to select the position and rotations of each ship using the mouse  
 - Once ready, the attacking player would begin. If the bomb hits the enemy ship, they would be allowed to continue bombing, else it switches to the other player.  
